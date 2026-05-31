@@ -28,8 +28,6 @@ Users need a clear way to monitor health progress because poor visibility reduce
 
 <img width="316" height="696" alt="image" src="https://github.com/user-attachments/assets/01469753-5174-4ba5-9e6a-155be19a6541" />
 
-<br>
-
 <img width="317" height="701" alt="image" src="https://github.com/user-attachments/assets/d1ef33a0-ef20-4fc2-9eec-204fc4a669f1" />
 
 
